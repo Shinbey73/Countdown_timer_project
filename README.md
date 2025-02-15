@@ -1,3 +1,4 @@
 # Countdown_timer_project
 Holiday project: Countdown_timer_project
-15/2/2025
+Date: 15/2/2025
+Author: Ahmad Sufi Bin Aziz Shah
