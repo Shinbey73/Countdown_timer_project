@@ -10,7 +10,7 @@ def timer():
     while True:
         try:
             input_time = int(input("Enter the time in second: "))
-
+            
             if input_time < 0:
                 raise positive
             
